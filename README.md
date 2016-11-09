@@ -1,0 +1,2 @@
+# MemoriaTecnica
+Se busca crear un registro de todo aquello de lo que se haga uso en los aspectos prácticos y aplicativos de la materia; sea por una tarea, sea por un ejercicio o ya sea por algo que expresamente se deba conocer. Este registro conforma una bitácora técnica de lo que puede considerarse la recopilación de elementos de trabajo que comprenderían una “caja de herramientas” básica para todo especialista, administrador o científico enfocado al manejo de datos. Este registro la recibirá el nombre de “Memoria Técnica.”
